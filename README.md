@@ -1,6 +1,6 @@
 # EduStream
 Installation:
-Clone the repository: git clone https://github.com/yourusername/your-e-learning-project.git
+Clone the repository: git clone https://github.com/58Harshil/EduStream
 
 Navigate to the project directory:
 cd your-e-learning-project
